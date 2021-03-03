@@ -42,7 +42,7 @@ import Hepatology from './components/Hepatology/Hepatology';
 
 function App() {
   return (
-    <div bg="light">
+    <div>
       <Router >
       <Switch>
 
@@ -170,25 +170,9 @@ function App() {
           <Hepatology></Hepatology>
         </Route>
 
-        
-
-        
-
-        
-
-        
-
-        
-
-
         <Route path ="*">
           <NoMatch></NoMatch>
         </Route>
-
-        
-
-        
-
 
       </Switch>
     </Router>

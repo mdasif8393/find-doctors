@@ -11,7 +11,7 @@ const Header = () => {
     return (
         <div style={{marginBottom:"100px"}}>
                 <Navbar collapseOnSelect expand="lg" variant="light" fixed="top" style={{backgroundColor:"#F0FFF0"}}>
-                    <Navbar.Brand href="#home" style={{marginRight:'175px', }}><img style={{height:"30px"}} src={logo} alt=""/><span style={{color:"#0275d8", fontWeight:"bold"}}>Doctors of Khulna City</span></Navbar.Brand>
+                    <Navbar.Brand href="#home" style={{marginRight:'175px', marginLeft:'60px', }}><img style={{height:"30px"}} src={logo} alt=""/><span style={{color:"#21B573", fontWeight:"bold"}}>Doctors of Khulna City</span></Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="mr-auto">

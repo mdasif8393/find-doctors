@@ -13,7 +13,7 @@ const Body = () => {
                 
                     <Card.Body style={{boxShadow: "10px 10px 20px lightgray"}}>
                     <Image style={{height:"150px", width:"170px", marginLeft:"65px", marginRight:"auto"}} src={money} roundedCircle fluid />
-                    <Card.Title style={{color:"#0275d8", fontWeight:"bold", textAlign:"center"}}>FIND DOCTOTS BY FEE</Card.Title>
+                    <Card.Title style={{color:"#21B573", fontWeight:"bold", textAlign:"center"}}>FIND DOCTOTS BY FEE</Card.Title>
                     <Card.Text>
                         <Link to="/ThreeHundredTaka"><Button style={{marginBottom:"8px"}} variant="outline-info" size="lg" block>300 Taka</Button></Link> 
                         <Link to="/FourHundredTaka"><Button style={{marginBottom:"8px"}} variant="outline-info" size="lg" block>400 Taka</Button></Link> 
@@ -29,7 +29,7 @@ const Body = () => {
                 <Card border="info" style={{boxShadow: "10px 10px 20px lightgray"}} style={{backgroundColor:"#F0FFF0"}}>
                     <Image style={{height:"150px", width:"150px", marginLeft:"auto", marginRight:"auto"}} src={doctors} roundedCircle fluid />
                     <Card.Body style={{boxShadow: "10px 10px 20px lightgray"}}>
-                    <Card.Title style={{color:"#0275d8", fontWeight:"bold", textAlign:"center"}}>FIND DOCTORS BY SPECIALTY</Card.Title>
+                    <Card.Title style={{color:"#21B573", fontWeight:"bold", textAlign:"center"}}>FIND DOCTORS BY SPECIALTY</Card.Title>
                     <Card.Text>
                     <Link to="/Medicine"><Button style={{marginBottom:"8px"}} variant="outline-info" size="lg" block>Medicine</Button></Link>
                     <Link to="/Gynecology"><Button style={{marginBottom:"8px"}} variant="outline-info" size="lg" block>Gynecology</Button></Link>
@@ -57,7 +57,7 @@ const Body = () => {
                 <Card border="info" style={{boxShadow: "10px 10px 20px lightgray"}} style={{backgroundColor:"#F0FFF0"}}>
                 <Image style={{height:"150px", width:"130px", marginLeft:"auto", marginRight:"auto"}} src={doctor} roundedCircle fluid />
                     <Card.Body style={{boxShadow: "10px 10px 20px lightgray"}}>
-                    <Card.Title style={{color:"#0275d8", fontWeight:"bold", textAlign:"center"}}>FIND DOCTORS BY DESIGNATION</Card.Title>
+                    <Card.Title style={{color:"#21B573", fontWeight:"bold", textAlign:"center"}}>FIND DOCTORS BY DESIGNATION</Card.Title>
                     <Card.Text>
                         <Link  to="/Professor"><Button style={{marginBottom:"8px"}} variant="outline-info" size="lg" block>Professor</Button></Link>
                         <Link to="/AssociateProfessor"><Button style={{marginBottom:"8px"}} variant="outline-info" size="lg" block>Associate Professor</Button> </Link>
