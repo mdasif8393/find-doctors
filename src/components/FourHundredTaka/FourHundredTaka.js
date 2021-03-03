@@ -7,7 +7,7 @@ const FourHundredTaka = () => {
         <div>
             <Container>
                 <Header></Header>
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                         <h1 style={{color: '#A52A2A'}}>Dr. Abdulla Al Mamun</h1>
                         <h5>
                             Degree: <span style={{color: '#A52A2A'}}>B.D.S</span>
@@ -35,7 +35,7 @@ const FourHundredTaka = () => {
                         </h5>
                     </Jumbotron>
 
-                    <Jumbotron>
+                    <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Monika Rani Shaha</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>M.B.B.S, FCPS</span>
@@ -63,7 +63,7 @@ const FourHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Bani Saha</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, EOC, Training – M.P.H (Bangkok, Thailand)</span>
@@ -90,6 +90,7 @@ const FourHundredTaka = () => {
                         Fee: <span style={{color: '#A52A2A'}}>400 Taka</span>
                     </h5>
                 </Jumbotron>
+                
             </Container>
             
         </div>

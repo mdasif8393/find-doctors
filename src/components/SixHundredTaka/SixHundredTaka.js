@@ -8,7 +8,7 @@ const SixHundredTaka = () => {
             <Container>
                 <Header></Header>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Afroza Akhter</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, BCS(Health), DGO</span>
@@ -36,7 +36,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. M.M. Abdus Shamim</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MD (Cardialogy), CCD(Bardem)</span>
@@ -64,7 +64,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Shudipto Saha</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, D-Card, CCD (Barden), BCS (Health)</span>
@@ -92,7 +92,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. M. A. Ali</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, D-Card (Japan)</span>
@@ -120,7 +120,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Mostofa Kamal</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MCPS(Medicine), D-card (Cardiology) MPH (Nepson)</span>
@@ -148,7 +148,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. M. Sowakat Ali</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MCPS (Child) FCPS (Child)</span>
@@ -176,7 +176,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Ehasanul Kabir</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DCH</span>
@@ -204,7 +204,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. N. N. Baruri</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DCH(DU)</span>
@@ -232,7 +232,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. A.K.M. Mamunur Rashid</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DCH, MD (Child)</span>
@@ -260,7 +260,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Rana Kumar Biswas</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>FCPS (Child) , DCH (DU), MD(Child Gestro) BSMMU</span>
@@ -288,7 +288,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}></h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}></span>
@@ -316,7 +316,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Uttam Kumar Dewan</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, BCS (Health), DCH(DMC)</span>
@@ -344,7 +344,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Nerapad Mondal</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>M.B.B.S B.C.S (Health) C.C.D (Bardam) D.C.H (Child)</span>
@@ -372,7 +372,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Sheikh Mizanul Hoque</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DCH(University of Ireland) MACP (USA)</span>
@@ -400,7 +400,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. M.A. Samad</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DDV (DU)</span>
@@ -428,7 +428,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. S.M Akramuzzaman</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DD (Thiland)</span>
@@ -456,7 +456,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Md. Golam Masud Mridha</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MD (Dermatology & Sex), DUMS, PHD (Dermatology & Sex)</span>
@@ -484,7 +484,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Ashim Kumar Halder</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>BDS (DU), MPH</span>
@@ -512,7 +512,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Kaji Abu Rashed</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS (DU), BCS (Health), DLO (BSMU)</span>
@@ -540,7 +540,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Khan Omor Faruk</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, BHS, PGT (ENT)</span>
@@ -568,7 +568,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Md. Shahadat Hossain</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS (Dhaka), BCS (Health), PGT (ENT)</span>
@@ -596,7 +596,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. G.M. Abu Zafar</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, FCPS-EYE</span>
@@ -624,7 +624,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. B.M. Saifur Rahman</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DO MCPS (EYE), Training on Phaco Surgery</span>
@@ -652,7 +652,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Mukti Kaniz Fatema (Papri)</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, BCS (Health), FCPS</span>
@@ -680,7 +680,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Fouzia Begum</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, FCPS (Gainee and position)</span>
@@ -708,7 +708,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Anjuman Ara</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MCPS, DGO</span>
@@ -736,7 +736,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Razia Parvin</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, FCPS</span>
@@ -764,7 +764,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Farhana Haque</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, BCS (Health) DGO</span>
@@ -792,7 +792,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Mettel-Ebna-Islam</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DGO, FCPS (Obs & Gynecology)</span>
@@ -820,7 +820,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Sonkor Prashd Biswas</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DGO, FCPS (Gynecology)</span>
@@ -848,7 +848,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Doli Halder</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}></span>
@@ -876,7 +876,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Nasrin Kabir</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DGO, FCPS(Gyne)</span>
@@ -904,7 +904,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Amina Jannat Piya</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MCPS(Obs & Gyne), FCPS(Obs & Gyne)</span>
@@ -932,7 +932,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. M A Hannan</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS (Dhaka), D.T.M & H(Bangkok)</span>
@@ -960,7 +960,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Farjana Kabir</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS (Dhaka), FCPS (Medicine)</span>
@@ -988,7 +988,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Goutam Kumar Mondol</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, BCS (Health), FCPS ( Medicine)</span>
@@ -1016,7 +1016,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Syed Md. Ilius</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS(Dhaka), D Ortho(DU), FRSH(London)</span>
@@ -1044,7 +1044,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Shibendu Mistry</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, BCS (Health), MS (Orthopedic Surgury), BSMU (Ex-PG Hospital)</span>
@@ -1072,7 +1072,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Md. Mostafujur Rahaman</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, D-Ortho(DU)</span>
@@ -1100,7 +1100,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. MD. Nazrul Islam</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS (DMC), MS (Orthopedics), BCS (Health)</span>
@@ -1128,7 +1128,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. MD. GolamMostofa</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MS (Ortho) Orthopedics & Troma Surgeon</span>
@@ -1156,7 +1156,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. R K Dash</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, BCS, D-Ortho</span>
@@ -1184,7 +1184,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Abdullah Al Mamun</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS (DU), D-Ortho (Pongu Hospita), PGT (Surgury)</span>
@@ -1212,7 +1212,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Md. Jasim Uddin</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, D-Ortho, Orthopedics Surgeon</span>
@@ -1240,7 +1240,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr Jotirmoy Sarkar</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>M.B.B.S (Dhaka) B.C.S (Health) D-Ortho</span>
@@ -1268,7 +1268,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Utpol Kumar Chandro</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, FCPS (Medicine)</span>
@@ -1296,7 +1296,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. MD. Nazrul Islam</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, FCPS (Medicine)</span>
@@ -1324,7 +1324,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Syed Mozammel Hossain</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, FCPS (Surgery)</span>
@@ -1352,7 +1352,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Fatema Akhter</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, FCPS (Surgery)</span>
@@ -1380,7 +1380,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Jannatul Ferdous Jesmin</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DGO, FCPS (OBS & Gynae)</span>
@@ -1408,7 +1408,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Mahfuja Ferdous</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DGO(OBS & Gynae)</span>
@@ -1436,7 +1436,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. IV Nasrin</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, FCPS</span>
@@ -1464,7 +1464,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Syed MD. Ilias</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, D-Ortho (DU), Ex-Lecturer & Departmental Head (Orthopedics)</span>
@@ -1492,7 +1492,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Mostafizur Rahman</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, D-Ortho</span>
@@ -1520,7 +1520,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Golam Masud</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MD (Hepatology)</span>
@@ -1548,7 +1548,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Sheikh Mozammel Hossain</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, FCPS (Medicine)</span>
@@ -1576,7 +1576,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Masud Ahmed</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, BCS, MS (Urology)</span>
@@ -1604,7 +1604,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Mofizuddin (Shoel)</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MS (Urology)</span>
@@ -1632,7 +1632,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. R K Nath</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, FCPS (ENT)</span>
@@ -1660,7 +1660,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. A.K.M Asaduzzaman</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MCPA, MMED</span>
@@ -1688,7 +1688,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Shirin Akter</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, FCPS (Skin)</span>
@@ -1716,7 +1716,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Md. Abdul Wadud</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, BCS(Health), MD(Gastroenterology)</span>
@@ -1744,7 +1744,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. MD. Forhadul Islam (Tuhin)</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, BCS (Health), FCPS (Medicine), MACP (USA), MD (Neurology-Course)</span>
@@ -1772,7 +1772,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. MD. Afzalul Bashar</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, BCS (Health), MD (Nephrology)</span>
@@ -1800,7 +1800,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Mohammad Showkat Haider</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DTM & H, DDV (Bangkok)</span>
@@ -1828,7 +1828,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Mithun Debnath</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS (KMC), BCS (Health), MD (Nephrology, DMC)</span>
@@ -1856,7 +1856,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Shamima Jahan Sathi</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, PGD</span>
@@ -1884,7 +1884,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Md. Md. Wazed Ali Mridha</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DDV (BSMMU)</span>
@@ -1912,7 +1912,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. MD. Obaidul Haque Sumon</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, BCS (Health), MD (Nephrology)</span>
@@ -1940,7 +1940,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr Md Kabirul Islam</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MD(Child)</span>
@@ -1968,7 +1968,7 @@ const SixHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Md. Shawkat Ali</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, FCPS(Surgury), Consultant(Surgury), Laparoscopic & General Surgon</span>

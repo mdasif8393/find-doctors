@@ -8,7 +8,7 @@ const ThreeHundredTaka = () => {
             <Container>
                 <Header></Header>
                 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Md. Barkat Ali</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS (Dhaka), DCH, FPCC (India), MAP (USA)</span>
@@ -36,7 +36,7 @@ const ThreeHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Saiful Arefin</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>M.B.B.S, P.G.T (Child) PGPN (Boston) USA</span>
@@ -64,7 +64,7 @@ const ThreeHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Syed Imtiaz Ahmed</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS(Dhaka) PGT( child) BMDC</span>
@@ -92,7 +92,7 @@ const ThreeHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Sk. Munir Ahamed</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, PGT (Child), PGPN (USA)</span>
@@ -120,7 +120,7 @@ const ThreeHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Shaikhan Ahmed Akash</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>B.D.S</span>
@@ -148,7 +148,7 @@ const ThreeHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Salina Yasmin</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, Training – C.M.U</span>
@@ -176,7 +176,7 @@ const ThreeHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Esrat Jahan</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS</span>
@@ -203,6 +203,8 @@ const ThreeHundredTaka = () => {
                         Fee: <span style={{color: '#A52A2A'}}>300 Taka</span>
                     </h5>
                 </Jumbotron>
+
+                
             </Container>
         </div>
     );

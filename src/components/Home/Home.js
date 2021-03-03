@@ -2,6 +2,7 @@
 import React from 'react';
 import { Button, Card, Col, Container, Row, } from 'react-bootstrap';
 import Body from '../Body/Body';
+import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 const Home = () => {
     return (
@@ -17,6 +18,7 @@ const Home = () => {
             </Body>
             
           </Container>
+          <Footer></Footer>
         </div>
     );
 };

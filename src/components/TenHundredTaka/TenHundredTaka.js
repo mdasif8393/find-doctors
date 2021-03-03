@@ -8,7 +8,7 @@ const TenHundredTaka = () => {
             <Container>
                 <Header></Header>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. S K Bollov</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>ENT</span>
@@ -36,7 +36,7 @@ const TenHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. MD. Kamruzzaman</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, FCPS, MS (ENT)</span>
@@ -64,7 +64,7 @@ const TenHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Monoj Kumar Boso</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MPH, DO, Fellow WHO (India, Indonesia)</span>
@@ -92,7 +92,7 @@ const TenHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. M A Maleque Khan</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>Qualification: MBBS, FCPS (EYE)</span>
@@ -101,7 +101,7 @@ const TenHundredTaka = () => {
                         Department: <span style={{color: '#A52A2A'}}>Eye</span>
                     </h5>
                     <h5>
-                        Specialty: <span style={{color: '#A52A2A'}}>ENT Speciaist, Head & Neck Surgeon</span>
+                        Specialty: <span style={{color: '#A52A2A'}}>Eye Speciaist</span>
                     </h5>
                     <h5>
                         Designation: <span style={{color: '#A52A2A'}}>Associate Professor</span>
@@ -120,7 +120,7 @@ const TenHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Professor Dr. Jalal Ahmed</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, FCPS, FICS</span>
@@ -148,7 +148,7 @@ const TenHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Samsun Nahar Lucky</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, FCPS, MS (Obs & Gyne)</span>
@@ -176,7 +176,7 @@ const TenHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Rawshan Ara Begum</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, FCPS</span>
@@ -204,7 +204,7 @@ const TenHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Sudipta Kumar Mukherjee</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MS (Neurosurgery), Fellow of American Association of Neurological Surgeon</span>
@@ -232,7 +232,7 @@ const TenHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Prof. Dr. Ibrahim Kholil</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MS (Ortho)</span>
@@ -260,7 +260,7 @@ const TenHundredTaka = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Syeed Kadir MD</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MS, FICS, FACS</span>
