@@ -18,42 +18,42 @@ const Header = () => {
                         <Link to="/home"><Nav.Link href="#home" >Home</Nav.Link></Link>
 
                             <NavDropdown  title= "Find Doctots By Fee" id="basic-nav-dropdown">
-                            <NavDropdown.Item href="/ThreeHundredTaka">300 Taka</NavDropdown.Item>
-                            <NavDropdown.Item href="/FourHundredTaka">400 Taka</NavDropdown.Item>
-                            <NavDropdown.Item href="/FiveHundredTaka">500 Taka</NavDropdown.Item>
-                            <NavDropdown.Item href="/SixHundredTaka">600 Taka</NavDropdown.Item>
-                            <NavDropdown.Item href="/SevenHundredTaka">700 Taka</NavDropdown.Item>
-                            <NavDropdown.Item href="/EightHundredTaka">800 Taka</NavDropdown.Item>
-                            <NavDropdown.Item href="/TenHundredTaka">1000 Taka</NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/ThreeHundredTaka">300 Taka</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/FourHundredTaka">400 Taka</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/FiveHundredTaka">500 Taka</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/SixHundredTaka">600 Taka</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/SevenHundredTaka">700 Taka</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/EightHundredTaka">800 Taka</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/TenHundredTaka">1000 Taka</Link></NavDropdown.Item>
                         </NavDropdown>
 
                         <NavDropdown title="Find Doctots By Specialty" id="basic-nav-dropdown">
-                            <NavDropdown.Item href="Medicine">Medicine</NavDropdown.Item>
-                            <NavDropdown.Item href="Gynecology">Gynecology</NavDropdown.Item>
-                            <NavDropdown.Item href="Surgery">Surgery</NavDropdown.Item>
-                            <NavDropdown.Item href="Orthopedics">Orthopedics</NavDropdown.Item>
-                            <NavDropdown.Item href="Child">Child</NavDropdown.Item>
-                            <NavDropdown.Item href="Skin">Skin</NavDropdown.Item>
-                            <NavDropdown.Item href="Dental">Dental</NavDropdown.Item>
-                            <NavDropdown.Item href="ENT">ENT</NavDropdown.Item>
-                            <NavDropdown.Item href="Eye">Eye</NavDropdown.Item>
-                            <NavDropdown.Item href="Cardiology">Cardiology</NavDropdown.Item>
-                            <NavDropdown.Item href="Gastroenterology">Gastroenterology</NavDropdown.Item>
-                            <NavDropdown.Item href="Oncology">Oncology</NavDropdown.Item>
-                            <NavDropdown.Item href="Neurology">Neurology</NavDropdown.Item>
-                            <NavDropdown.Item href="Nephrology">Nephrology</NavDropdown.Item>
-                            <NavDropdown.Item href="Endocrinology">Endocrinology</NavDropdown.Item>
-                            <NavDropdown.Item href="Urology">Urology</NavDropdown.Item>
-                            <NavDropdown.Item href="Hepatology">Hepatology</NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/Medicine">Medicine</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/Gynecology">Gynecology</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/Surgery">Surgery</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/Orthopedics">Orthopedics</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/Child">Child</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/Skin">Skin</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/Dental">Dental</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/ENT">ENT</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/Eye">Eye</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/Cardiology">Cardiology</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/Gastroenterology">Gastroenterology</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/Oncology">Oncology</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/Neurology">Neurology</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/Rheumatology">Rheumatology</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/Endocrinology">Endocrinology</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/Urology">Urology</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/Hepatology">Hepatology</Link></NavDropdown.Item>
 
                         </NavDropdown>
 
                         <NavDropdown title="Find Doctots By Designation" id="basic-nav-dropdown">
-                            <NavDropdown.Item href="Professor">Professor</NavDropdown.Item>
-                            <NavDropdown.Item href="AssociateProfessor">Associate Professor</NavDropdown.Item>
-                            <NavDropdown.Item href="AssistantProfessor">Assistant Professor</NavDropdown.Item>
-                            <NavDropdown.Item href="Consultant">Consultant</NavDropdown.Item>
-                            <NavDropdown.Item href="MedicalOfficer">Medical Officer</NavDropdown.Item>
+                        <NavDropdown.Item><Link to="/Professor">Professor</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/AssociateProfessor">Associate Professor</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/AssistantProfessor">Assistant Professor</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/Consultant">Consultant</Link></NavDropdown.Item>
+                            <NavDropdown.Item><Link to="/MedicalOfficer">Medical Officer</Link></NavDropdown.Item>
                         </NavDropdown>
                         
                         </Nav>

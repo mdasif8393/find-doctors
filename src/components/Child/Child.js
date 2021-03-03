@@ -8,7 +8,7 @@ const Child = () => {
             <Container>
                 <Header></Header>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Md. Barkat Ali</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS (Dhaka), DCH, FPCC (India), MAP (USA)</span>
@@ -36,7 +36,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Saiful Arefin</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>M.B.B.S, P.G.T (Child) PGPN (Boston) USA</span>
@@ -64,7 +64,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Syed Imtiaz Ahmed</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS(Dhaka) PGT( child) BMDC</span>
@@ -92,7 +92,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Sk. Munir Ahamed</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, PGT (Child), PGPN (USA)</span>
@@ -120,7 +120,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. M.A. Hasan</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DCH, MCPS (Child)</span>
@@ -148,7 +148,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Amirul Islam</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS (Dhaka), DCH (SSMC), MPHCM (BSMMU)</span>
@@ -176,7 +176,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Farrukh Ahmed</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MD (Child), MD(Newborn)</span>
@@ -204,7 +204,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Evana Nasrin</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS (DMC), BCS (Health) , FCPS (Child)</span>
@@ -232,7 +232,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Anup Kumar Dey</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>M.B.B.S (Dhaka), P.G.T (Child), D.S.H, P.G.P.N (Boston America), F.R.S.H (London)</span>
@@ -260,7 +260,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Sharafat Hossain</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DCH, FCPS (Paediatrics)</span>
@@ -288,7 +288,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Shah Muradur Rahman</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DCH (Child)</span>
@@ -316,7 +316,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Md. Muniruzzaman Khan</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MD (child Kidney)</span>
@@ -344,7 +344,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Panchonon Moholy</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MD (Int Medicine)</span>
@@ -372,7 +372,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Ahsanul Kabir</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DCH (Child)</span>
@@ -400,7 +400,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Evana Nasrin</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS (DMC), BCS (Health) , FCPS (Child)</span>
@@ -428,7 +428,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. S.M Javed Mahmud</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MD (Child)</span>
@@ -456,7 +456,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. M. Sowakat Ali</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MCPS (Child) FCPS (Child)</span>
@@ -484,7 +484,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Ehasanul Kabir</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DCH</span>
@@ -512,7 +512,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. N. N. Baruri</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DCH(DU)</span>
@@ -540,7 +540,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. A.K.M. Mamunur Rashid</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DCH, MD (Child)</span>
@@ -568,7 +568,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Rana Kumar Biswas</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>FCPS (Child) , DCH (DU), MD(Child Gestro) BSMMU</span>
@@ -596,7 +596,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Uttam Kumar Dewan</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, BCS (Health), DCH(DMC)</span>
@@ -624,7 +624,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Nerapad Mondal</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>M.B.B.S B.C.S (Health) C.C.D (Bardam) D.C.H (Child)</span>
@@ -652,7 +652,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Sheikh Mizanul Hoque</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DCH(University of Ireland) MACP (USA)</span>
@@ -680,7 +680,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. A.K.M Asaduzzaman</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MCPA, MMED</span>
@@ -708,7 +708,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr Md Kabirul Islam</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MD(Child)</span>
@@ -736,7 +736,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Khan Golam Mostafa</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, MCPS, MD(CHILD)</span>
@@ -764,7 +764,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. A.K.M Mamunur Rashid</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, DCH, MD (CHILD) FRCP(ADN)</span>
@@ -792,7 +792,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Abdullah Al-Mahbub</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, FCPS (Child)</span>
@@ -820,7 +820,7 @@ const Child = () => {
                     </h5>
                 </Jumbotron>
 
-                <Jumbotron>
+                <Jumbotron  style={{boxShadow: "10px 10px 20px lightgray", backgroundColor:"#F0FFF0"}}>
                     <h1 style={{color: '#A52A2A'}}>Dr. Shek Mosiur Rahman (Dipu)</h1>
                     <h5>
                         Degree: <span style={{color: '#A52A2A'}}>MBBS, BCS (Health) , MD (Child), BSMMU</span>
